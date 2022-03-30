@@ -1,0 +1,37 @@
+
+h1{text-align:center;color:rgb(10, 22, 128);font-size: 30px; }
+h2 {text-align:center;font-family:'Times New Roman', Times, serif;font-style: italic; color: rgb(10, 22, 128);font-size:25px;border-bottom-style:  solid;padding:3px;}
+ul {
+    list-style-type:none;
+    margin: 3;
+    padding: 0;
+    overflow: hidden;
+  
+  }
+  
+  li {
+    float:left;
+  }
+  
+  li a {
+    display:table;
+    color: rgb(10, 22, 128);
+    text-align: center;
+    padding: 14px,16px;
+    text-decoration:none;
+    width:240px;
+    ;text-shadow: -1px 0 rgb(195, 218, 238), 0 1px rgb(195, 218, 238), 1px 0 rgb(195, 218, 238), 0 -1px rgb(195, 218, 238);
+    font-weight:bolder;
+  }
+  
+ 
+ body{background-image:url("images/background2.jpg");
+background-size:cover;}
+img{width: 15cm;
+padding: 30px 350px}
+
+#names{font-family: 'Times New Roman', Times, serif;font-style: normal;text-align:center;font-size:15px;color:dimgrey}
+p{font-family: 'Times New Roman', Times, serif;font-style: italic;font-size: 35px;text-align:center;font-weight: bold;color:rgb(10, 22, 128)}
+
+
+ 
